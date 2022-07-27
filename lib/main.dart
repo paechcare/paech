@@ -135,8 +135,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             Padding(
                                 padding: EdgeInsets.only(right: 50),
                                 child: Text("Wrong ward? Tap here to change",
-                                    style: GoogleFonts.raleway(
-                                        textStyle: TextStyle())))
+                                    style: GoogleFonts.raleway()))
                           ])),
                     ]),
                 Container(
